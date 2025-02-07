@@ -1,4 +1,4 @@
-<route type="page" lang="json">
+<route type="home" lang="json">
 {
   "style": {
     "navigationBarTitleText": "请求测试页面",
